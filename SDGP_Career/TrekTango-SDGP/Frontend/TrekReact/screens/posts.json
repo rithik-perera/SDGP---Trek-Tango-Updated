@@ -1,0 +1,82 @@
+[
+  {
+    "username": "Alice",
+    "postId": "1",
+    "userID": "90b816ccc0014621ae1ad499d431229c",
+    "placeId": "dae6396e835545668e68ea62432334ec",
+    "imageReferenceId": "https://cdn.pixabay.com/photo/2023/08/09/08/40/ai-generated-8178998_960_720.png",
+    "uploadToMedia": "true",
+    "caption": "Beautiful day at the beach!",
+    "comments": [
+      {
+        "commentID": "0b3325dd768e411eacbb8d2937493718",
+        "username": "Bob",
+        "comment": "Nice photo!"
+      }
+    ],
+    "likes": [
+      "df04e15c0300495abb30b8f96aae35d2","df04e15c0300495abb30b8f96aae35d2","90b816ccc0014621ae1ad499d431229dh"
+    ],
+    "uploadedDate": "2024-03-22T00:00:00.000Z"
+  },
+  {
+    "username": "Dil",
+    "postId": "2",
+    "userID": "90b816ccc0014621ae1ad499d431229dh",
+    "placeId": "dae6396e835545668e68ea62432334ed",
+    "imageReferenceId": "https://cdn.pixabay.com/photo/2023/09/15/17/38/record-player-8255199_1280.jpg",
+    "uploadToMedia": "true",
+    "caption": "Beaghnbdfutiful day at the beach!",
+    "comments": [
+      {
+        "commentID": "0b3325dd768e411eacbb8d2937493718",
+        "username": "Bob",
+        "comment": "Nice photo!"
+      }
+    ],
+    "likes": [
+      "df04e15c0300495abb30b8f96aae35d2", "90b816ccc0014621ae1ad499d431229d"
+    ],
+    "uploadedDate": "2024-03-22T00:00:00.000Z"
+  },
+  {
+    "username": "g bj gkf",
+    "postId": "3",
+    "userID": "90b816ccc0014621ae1ad499d431229f",
+    "placeId": "dae6396e835545668e68ea62432334ef",
+    "imageReferenceId": "https://cdn.pixabay.com/photo/2023/08/09/08/40/ai-generated-8178998_960_720.png",
+    "uploadToMedia": "true",
+    "caption": "vfcfbccbfbcBeautiful day at the beach!",
+    "comments": [
+      {
+        "commentID": "0b3325dd768e411eacbb8d2937493718",
+        "username": "Bob",
+        "comment": "Nice photo!"
+      }
+    ],
+    "likes": [
+      "df04e15c0300495abb30b8f96aae35d2"
+    ],
+    "uploadedDate": "2024-03-22T00:00:00.000Z"
+  },
+  {
+    "username": "g bj gkf",
+    "postId": "4",
+    "userID": "90b816ccc0014621ae1ad499d431229f",
+    "placeId": "dae6396e835545668e68ea62432334ef",
+    "imageReferenceId": "https://cdn.pixabay.com/photo/2023/08/09/08/40/ai-generated-8178998_960_720.png",
+    "uploadToMedia": "true",
+    "caption": "vfcfbccbfbcBeautiful day at the beach!",
+    "comments": [
+      {
+        "commentID": "0b3325dd768e411eacbb8d2937493718",
+        "username": "Bob",
+        "comment": "Nice photo!"
+      }
+    ],
+    "likes": [
+      "df04e15c0300495abb30b8f96aae35d2","90b816ccc0014621ae1ad499d431229dh"
+    ],
+    "uploadedDate": "2024-03-22T00:00:00.000Z"
+  }
+]
